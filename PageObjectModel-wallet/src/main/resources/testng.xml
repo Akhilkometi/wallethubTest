@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE FB Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Free FB App Test Cases">
+		<classes>
+			<class name="com.FB.qa.testcases.StatusPageTest"></class>
+			<class name="com.FB.qa.testcases.WalletReviewTest"></class>
+		</classes>
+	</test>
+</suite>

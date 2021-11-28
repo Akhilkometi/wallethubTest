@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE FB Application Test Automation Test Suite">
+	<test name="Free FB App Test Cases">
+		<classes>
+<!--			<class name="com.FB.qa.testcases.LoginPageTest"></class>-->
+<!--			<class name="com.FB.qa.testcases.HomePageTest"></class>-->
+			
+		</classes>
+	</test>
+</suite>
