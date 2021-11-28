@@ -9,6 +9,7 @@ TestNG is used as test framework.
 Dependency
 Java
 Maven
+MAC OS
 
 ###libraries used
 Selenium
@@ -24,3 +25,4 @@ mvn clean test
 
 Note:
 My test faceaccounts accounts were disabled because of automation, could you please use any of your test Facebook username and passwords .
+Use MaC or replace windows chrome driver in Resources folder
